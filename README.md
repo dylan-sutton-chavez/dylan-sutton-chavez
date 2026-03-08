@@ -19,3 +19,22 @@ Open to collaborations.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dylan-sutton-chavez/dylan-sutton-chavez/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/dylan-sutton-chavez/dylan-sutton-chavez/output/github-snake.svg" />
 </picture>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/dylan-sutton-chavez/repo-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylan-sutton-chavez&repo=repo-1&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/dylan-sutton-chavez/repo-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylan-sutton-chavez&repo=repo-2&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/dylan-sutton-chavez/repo-3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylan-sutton-chavez&repo=repo-3&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/dylan-sutton-chavez/repo-4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylan-sutton-chavez&repo=repo-4&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
