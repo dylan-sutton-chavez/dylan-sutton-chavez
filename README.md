@@ -24,7 +24,7 @@ Open to collaborations.
 
 <div align="center">
 
-<a href="https://github.com/dylan-sutton-chavez/repo-1">
+<a href="https://github.com/dylan-sutton-chavez/nlp-crawler">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylan-sutton-chavez&repo=repo-1&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/dylan-sutton-chavez/repo-2">
