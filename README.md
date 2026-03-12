@@ -27,4 +27,4 @@ Open to collaborations.
 ### Revisiting Rosenblatt Perceptron: Robust High-Entropy Classification via Uncertainty Margins
 
 1. Uncertainty Simple Perceptron (rust): Implementation of [my papper](https://github.com/dylan-sutton-chavez/uncertainty-simple-perceptron/blob/main/uncertainty-simple-perceptron.tex), to work on edge devices ([GitHub](https://github.com/dylan-sutton-chavez/uncertainty-simple-perceptron_rust)).
-2. Uncertainty Simple Perceptron (python): Service thtat implement's [my papper](https://github.com/dylan-sutton-chavez/uncertainty-simple-perceptron/blob/main/uncertainty-simple-perceptron.tex) for real-time datasets with logging, retraining, monitoring,... ([GitHub]([https://github.com/dylan-sutton-chavez/uncertainty-simple-perceptron_rust](https://github.com/dylan-sutton-chavez/uncertainty-simple-perceptron)))
+2. Uncertainty Simple Perceptron (python): Service thtat implement's [my papper](https://github.com/dylan-sutton-chavez/uncertainty-simple-perceptron/blob/main/uncertainty-simple-perceptron.tex) for real-time datasets with logging, retraining, monitoring,... ([GitHub](https://github.com/dylan-sutton-chavez/uncertainty-simple-perceptron))
