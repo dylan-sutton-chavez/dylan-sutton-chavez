@@ -28,3 +28,10 @@ Open to collaborations.
 
 1. Uncertainty Simple Perceptron (rust): Implementation of [papper](https://github.com/dylan-sutton-chavez/uncertainty-simple-perceptron/blob/main/uncertainty-simple-perceptron.tex), to work on edge devices. ([GitHub](https://github.com/dylan-sutton-chavez/uncertainty-simple-perceptron_rust))
 2. Uncertainty Simple Perceptron (python): Service that implement's the [papper](https://github.com/dylan-sutton-chavez/uncertainty-simple-perceptron/blob/main/uncertainty-simple-perceptron.tex) for real-time datasets with logging, retraining, monitoring,... ([GitHub](https://github.com/dylan-sutton-chavez/uncertainty-simple-perceptron))
+
+### Edge Python
+
+Oficial Website: https://edgepython.com/.
+
+1. Edge Python (rust): Python compiler written in Rust, implementing this [architecture](https://edgepython.com/resources/architecture). ([GitHub](https://github.com/dylan-sutton-chavez/edge-python))
+2. Edge Python Documentation: https://github.com/dylan-sutton-chavez/edge-python-documentation/.
