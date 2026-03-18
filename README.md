@@ -33,5 +33,4 @@ Open to collaborations.
 
 Oficial Website: https://edgepython.com/.
 
-1. Edge Python (rust): Python compiler written in Rust, implementing this [architecture](https://edgepython.com/resources/architecture). ([GitHub](https://github.com/dylan-sutton-chavez/edge-python))
-2. Edge Python Documentation: https://github.com/dylan-sutton-chavez/edge-python-documentation/.
+1. Edge Python (rust): Python compiler written in Rust, implemented on these [documentation](https://edgepython.com/). ([GitHub](https://github.com/dylan-sutton-chavez/edge-python))
