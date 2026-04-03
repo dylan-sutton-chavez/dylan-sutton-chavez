@@ -26,10 +26,10 @@ Open to collaborations.
 
 ### Revisiting Rosenblatt Perceptron: Robust High-Entropy Classification via Uncertainty Margins
 
-1. Uncertainty Simple Perceptron: Implementation of the [papper](https://github.com/dylan-sutton-chavez/uncertainty-simple-perceptron/blob/main/uncertainty-simple-perceptron.tex), to work on edge devices on these repository: https://github.com/dylan-sutton-chavez/uncertainty-simple-perceptron.
+1. Uncertainty Simple Perceptron: Implementation of the [papper](https://github.com/dylan-sutton-chavez/uncertainty-simple-perceptron/blob/main/uncertainty-simple-perceptron.tex), to work on edge devices on these repository: https://github.com/dylan-sutton-chavez/uncertainty-simple-perceptron
 
 ### Edge Python
 
-Oficial Website: https://edgepython.com/.
+Oficial Website: https://edgepython.com/
 
-1. Edge Python (rust): Python compiler written in Rust, implemented here: https://github.com/dylan-sutton-chavez/edge-python.
+1. Edge Python (rust): Python compiler written in Rust, implemented here: https://github.com/dylan-sutton-chavez/edge-python
