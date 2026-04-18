@@ -32,7 +32,7 @@ Open to collaborations.
 
 ### Edge Python
 
-Oficial Website: https://edgepython.com/
-Demo: https://demo.edgepython.com/
+* Oficial Website: https://edgepython.com/
+* Demo: https://demo.edgepython.com/
 
-1. Edge Python (rust): Python compiler written in Rust, implemented here: https://github.com/dylan-sutton-chavez/edge-python
+Edge Python (rust): Python compiler written in Rust, implemented here: https://github.com/dylan-sutton-chavez/edge-python
