@@ -22,7 +22,7 @@ First-author paper introducing an uncertainty-aware linear classifier with adapt
 
 ### Systems
 
-**Edge Python** — Single-pass SSA compiler and stack VM for a functional subset of CPython 3.13, written in Rust. Inline caching, template memoization, NaN-boxed values, mark-sweep GC, and sandbox limits. ~130 KB WASM release.
+**Edge Python** — Single-pass SSA compiler based on CPython syntax: hand-written lexer, token-to-bytecode parser, threaded-code virtual machine with NaN-boxed values, inline caching, template memoization, and a mark-sweep garbage collector. Ships as a WebAssembly module.
 
 - Website: [edgepython.com](https://edgepython.com/)
 - Live demo: [demo.edgepython.com](https://demo.edgepython.com/)
