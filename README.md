@@ -22,7 +22,7 @@ First-author paper introducing an uncertainty-aware linear classifier with adapt
 
 ### Systems
 
-**Edge Python** — Single-pass SSA compiler based on CPython syntax: hand-written lexer, token-to-bytecode parser, threaded-code virtual machine with NaN-boxed values, inline caching, template memoization, and a mark-sweep garbage collector. Ships as a WebAssembly module.
+**Edge Python** — Single-pass SSA compiler and threaded-code VM for a sandboxed Python subset. NaN-boxed values, dual inline caching, super-instruction fusion, pure-function memoization, mark-sweep GC; classes with inheritance and dunder protocol, async/await, pattern matching, and packages.json imports. around 170 KB WebAssembly module.
 
 - Website: [edgepython.com](https://edgepython.com/)
 - Live demo: [demo.edgepython.com](https://demo.edgepython.com/)
