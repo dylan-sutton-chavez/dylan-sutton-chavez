@@ -30,7 +30,7 @@ First-author paper introducing an uncertainty-aware linear classifier with adapt
 
 **Edge Python Official Packages:**
 
-- Dom memory pool bridge: [Repository](https://github.com/dylan-sutton-chavez/edge-python-dom)
+- Dom memory pool bridge ([repository](https://github.com/dylan-sutton-chavez/edge-python-dom)): A Rust and JavaScript bridge that gives Edge Python scripts near-native DOM access, real DOM nodes addressed as opaque u32 handles, strings moving zero-copy through shared linear memory, and DOM operations batched into a command buffer flushed once per microtask.
 
 ---
 
