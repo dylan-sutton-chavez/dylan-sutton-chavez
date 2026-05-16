@@ -28,6 +28,10 @@ First-author paper introducing an uncertainty-aware linear classifier with adapt
 - Live demo: [demo.edgepython.com](https://demo.edgepython.com/)
 - Source: [edge-python](https://github.com/dylan-sutton-chavez/edge-python)
 
+**Edge Python Official Packages:**
+
+- Dom memory pool bridge: [Repository](https://github.com/dylan-sutton-chavez/edge-python-dom)
+
 ---
 
 <picture>
