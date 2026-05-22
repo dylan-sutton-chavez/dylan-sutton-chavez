@@ -30,7 +30,7 @@ First-author paper introducing an uncertainty-aware linear classifier with adapt
 
 **Edge Python Official Packages:**
 
-- Host Capabilities ([repository](https://github.com/dylan-sutton-chavez/edge-python-capabilities)): Official .wasm packages that embed host-side bridge code (e.g., JS) and expose it to Python through the capability protocol. Includes modules like requests for networking and DOM bindings for browser interaction.
+- Host Packages ([repository](https://github.com/dylan-sutton-chavez/edge-python-host)): Official .wasm packages that embed host-side bridge code (e.g., JS) and expose it to Python through the capability protocol. Includes modules like requests for networking and DOM bindings for browser interaction.
 
 ---
 
