@@ -8,7 +8,7 @@ Systems Developer at Amazon Audible, peer reviewer for IEEE WCCI 2026, and indep
 
 I work on resource-constrained machine learning, compiler design, and production systems engineering. From migrating Player Services across AWS regions to building a single-pass SSA compiler in Rust, and proposing uncertainty-aware classifiers for TinyML deployment validated on NASA IMS and SemEval.
 
-Most of what I build is small, fast, and deterministic. Open to collaborations on AI safety, selective classification, and embedded ML.
+Most of what I build is small, fast, and deterministic. Open to collaborations on tiny compilers, selective classification, and embedded ML.
 
 ---
 
