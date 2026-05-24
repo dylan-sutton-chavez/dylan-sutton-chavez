@@ -15,14 +15,14 @@ Most of what I build is small, fast, and deterministic. Open to collaborations o
 ### Research
 
 **Revisiting Rosenblatt Perceptron: Robust High-Entropy Classification via Uncertainty Margins**
-First-author paper introducing an uncertainty-aware linear classifier with adaptive abstention margin for TinyML deployment. ~1 KB memory footprint, 9 ms latency, benchmarked against Bonsai, FastGRNN, ProtoNN, and LSTM.
+Author of paper, introducing an uncertainty-aware linear classifier with adaptive abstention margin for TinyML deployment. ~1 KB memory footprint, 9 ms latency, benchmarked against Bonsai, FastGRNN, ProtoNN, and LSTM.
 
 - Paper source: [uncertainty-simple-perceptron.tex](https://github.com/dylan-sutton-chavez/uncertainty-simple-perceptron/blob/main/uncertainty-simple-perceptron.tex)
 - Implementation: [uncertainty-simple-perceptron](https://github.com/dylan-sutton-chavez/uncertainty-simple-perceptron)
 
 ### Systems
 
-**Edge Python** — Single-pass SSA compiler and threaded-code VM for a sandboxed Python subset. NaN-boxed values, dual inline caching, super-instruction fusion, pure-function memoization, mark-sweep GC; classes with inheritance and dunder protocol, async/await, pattern matching, and packages.json imports. around 170 KB WebAssembly module.
+**Edge Python** Single-pass SSA compiler and threaded-code VM for a sandboxed Python subset. NaN-boxed values, dual inline caching, super-instruction fusion, pure-function memoization, mark-sweep GC; classes with inheritance and dunder protocol, async/await, pattern matching, and packages.json imports. around 170 KB WebAssembly module.
 
 - Website: [edgepython.com](https://edgepython.com/)
 - Live demo: [demo.edgepython.com](https://demo.edgepython.com/)
