@@ -22,7 +22,7 @@ Author of paper, introducing an uncertainty-aware linear classifier with adaptiv
 
 ### Systems
 
-**Edge Python** Single-pass SSA compiler and threaded-code VM for a sandboxed Python subset. NaN-boxed values, dual inline caching, super-instruction fusion, pure-function memoization, mark-sweep GC; classes with inheritance and dunder protocol, async/await, pattern matching, and packages.json imports. around 170 KB WebAssembly module.
+**Edge Python** Single-pass SSA compiler and bytecode VM for a sandboxed Python subset. NaN-boxed values, dual inline caching (scalar + instance-dunder), super-instruction fusion, pure-function memoization, mark-sweep GC; classes with inheritance and dunder protocol, stackful coroutines with async/await, pattern matching, and packages.json imports. Around 170 KB WebAssembly module.
 
 - Website: [edgepython.com](https://edgepython.com/)
 - Live demo: [demo.edgepython.com](https://demo.edgepython.com/)
