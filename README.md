@@ -30,8 +30,8 @@ Author of paper, introducing an uncertainty-aware linear classifier with adaptiv
 
 **Edge Python Official Packages:**
 
-- Host Packages ([repository](https://github.com/dylan-sutton-chavez/edge-python-host)): Official packages that embed host-side bridge code (e.g., JS) and expose it to Python through the capability protocol. Includes modules like requests for networking and DOM bindings for browser interaction.
-- Standard Packages ([repository](https://github.com/dylan-sutton-chavez/edge-python-std)): Official .wasm standard-library packages, where each capability is a Rust crate compiled to wasm32 against the wasm-pdk ABI. Hosts load the resulting .wasm over the standard plugin contract, no custom embedder, no Rust on the consumer side.
+- Host Packages: Official packages that embed host-side bridge code (e.g., JS) and expose it to Python through the capability protocol. Includes modules like requests for networking and DOM bindings for browser interaction.
+- Standard Packages: Official .wasm standard-library packages, where each capability is a Rust crate compiled to wasm32 against the wasm-pdk ABI. Hosts load the resulting .wasm over the standard plugin contract, no custom embedder, no Rust on the consumer side.
 
 ---
 
