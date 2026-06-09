@@ -6,7 +6,7 @@
 
 Systems Developer at Amazon Audible, peer reviewer for IEEE WCCI 2026, and independent ML researcher with work currently under journal review.
 
-I work on resource-constrained machine learning, compiler design, and production systems engineering. From migrating Player Services across AWS regions to building Edge Python, a single-pass SSA compiler and bytecode VM in Rust and WebAssembly (239★, externally sponsored), and proposing uncertainty-aware classifiers for TinyML deployment validated on NASA IMS and SemEval.
+I work on resource-constrained machine learning, compiler design, and production systems engineering. From migrating Player Services across AWS regions to building Edge Python, a single-pass SSA compiler and bytecode VM in Rust and WebAssembly (>240 stars, externally sponsored), and proposing uncertainty-aware classifiers for TinyML deployment validated on NASA IMS and SemEval.
 
 Most of what I build is small, fast, and deterministic. Open to collaborations on tiny compilers, selective classification, and embedded ML.
 
