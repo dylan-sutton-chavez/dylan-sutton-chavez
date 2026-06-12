@@ -24,8 +24,7 @@ Author of paper, introducing an uncertainty-aware linear classifier with adaptiv
 
 **Edge Python** Single-pass SSA bytecode compiler and threaded-code stack VM for a sandboxed Python subset: NaN-boxed values, inline caching, super-instruction fusion, pure-function memoization, mark-sweep GC. Coverage-guided fuzzing; sub-200 KB WebAssembly module runs in the browser.
 
-- Website: [edgepython.com](https://edgepython.com/)
-- Live demo: [demo.edgepython.com](https://demo.edgepython.com/)
+- Docs (try Edge Python directly in your browser): [edgepython.com](https://edgepython.com/)
 - Source: [edge-python](https://github.com/dylan-sutton-chavez/edge-python)
 
 **Edge Python Official Packages:**
