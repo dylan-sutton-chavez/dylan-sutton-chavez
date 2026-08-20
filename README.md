@@ -12,14 +12,6 @@ Most of what I build is small, fast, and deterministic. Open to collaborations o
 
 ---
 
-### Research
-
-**Revisiting Rosenblatt Perceptron: Robust High-Entropy Classification via Uncertainty Margins**
-Author of paper, introducing an uncertainty-aware linear classifier with adaptive abstention margin for TinyML deployment. ~1 KB memory footprint, 9 ms latency, benchmarked against Bonsai, FastGRNN, ProtoNN, and LSTM.
-
-- Paper source: [uncertainty-simple-perceptron.tex](https://github.com/dylan-sutton-chavez/uncertainty-simple-perceptron/blob/main/uncertainty-simple-perceptron.tex)
-- Implementation: [uncertainty-simple-perceptron](https://github.com/dylan-sutton-chavez/uncertainty-simple-perceptron)
-
 ### Systems
 
 **Edge Python** Single-pass SSA bytecode compiler and threaded-code stack VM for a Python subset. NaN-boxed values, inline caching, super-instruction fusion, pure-function memoization, mark-sweep GC, interpreter snapshots, and coverage-guided fuzzing. Runs in the browser as a WebAssembly module, or in the CLI as a script, a standalone binary, or a pool of workers.
