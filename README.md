@@ -14,15 +14,10 @@ Most of what I build is small, fast, and deterministic. Open to collaborations o
 
 ### Systems
 
-**Edge Python** Single-pass SSA bytecode compiler and threaded-code stack VM for a Python subset. NaN-boxed values, inline caching, super-instruction fusion, pure-function memoization, mark-sweep GC, interpreter snapshots, and coverage-guided fuzzing. Runs in the browser as a WebAssembly module, or in the CLI as a script, a standalone binary, or a pool of workers.
+**Edge Python** Single-pass SSA compiler and tiered register VM for a sandboxed Python subset, with NaN-boxed values, inline caches, memoization, mark-sweep GC and snapshots. One WebAssembly module runs in browsers, JavaScript runtimes and the CLI.
 
 - Docs (try Edge Python directly in your browser): [edgepython.com](https://edgepython.com/)
 - Source: [edge-python](https://github.com/dylan-sutton-chavez/edge-python)
-
-**Edge Python Official Packages:**
-
-- Host Packages: Official packages that embed host-side bridge code (e.g., JS) and expose it to Python through the capability protocol. Includes modules like requests for networking and DOM bindings for browser interaction.
-- Standard Packages: Official .wasm standard-library packages, where each capability is a Rust crate compiled to wasm32 against the wasm-pdk ABI. Hosts load the resulting .wasm over the standard plugin contract, no custom embedder, no Rust on the consumer side.
 
 ---
 
