@@ -16,7 +16,6 @@ Most of what I build is small, fast, and deterministic. Open to collaborations o
 
 **Edge Python** is a single-pass SSA compiler and tiered register VM for a sandboxed Python subset, with NaN-boxed values, inline caches, memoization, mark-sweep GC and snapshots. One WebAssembly module runs in browsers, JavaScript runtimes and the CLI.
 
-- Docs (try Edge Python directly in your browser): [edgepython.com](https://edgepython.com/)
 - Source: [edge-python](https://github.com/dylan-sutton-chavez/edge-python)
 
 ---
