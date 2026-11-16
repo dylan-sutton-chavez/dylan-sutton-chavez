@@ -1,22 +1,20 @@
 # Dylan Sutton Chavez
 
-**IEEE WCCI 2026 Peer Reviewer · ML Researcher · Systems Developer @ Amazon Audible**
+**Systems Developer @ Amazon Audible**
 
 ---
 
-Systems Developer at Amazon Audible, peer reviewer for IEEE WCCI 2026, and independent ML researcher with work currently under journal review.
+I work on compiler design and production systems. At Audible I move services across AWS regions and build their throttling, alarms and load tests. On my own I build interpreter, a Rust SDK for language runtimes (>270 stars, externally sponsored).
 
-I work on resource-constrained machine learning, compiler design, and production systems engineering. From migrating Player Services across AWS regions to building Edge Python, a single-pass SSA compiler and bytecode VM in Rust and WebAssembly (>240 stars, externally sponsored), and proposing uncertainty-aware classifiers for TinyML deployment validated on NASA IMS and SemEval.
-
-Most of what I build is small, fast, and deterministic. Open to collaborations on tiny compilers, selective classification, and embedded ML.
+Most of what I build is small, fast and deterministic. Open to collaborations on tiny compilers, interpreters and WebAssembly runtimes.
 
 ---
 
 ### Systems
 
-**Edge Python** is a single-pass SSA compiler and tiered register VM for a sandboxed Python subset, with NaN-boxed values, inline caches, memoization, mark-sweep GC and snapshots. One WebAssembly module runs in browsers, JavaScript runtimes and the CLI.
+**interpreter** is a Rust SDK for building language runtimes. You bring a token table, a few rules and the natives your programs call. It brings the lexer, a single-pass parser that writes SSA bytecode with no AST, and a tiered register VM with NaN-boxed values, inline caches, a mark-sweep GC and snapshots. A runtime built on it is one WebAssembly module that runs in browsers, JavaScript runtimes, the CLI and your own Rust program, sandboxed by default: no file, network or environment unless its host grants it. Its example language is Lox, which passes the book's 241 tests.
 
-- Source: [edge-python](https://github.com/dylan-sutton-chavez/edge-python)
+- Source: [interpreter](https://github.com/dylan-sutton-chavez/interpreter)
 
 ---
 
